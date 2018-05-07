@@ -1,0 +1,8 @@
+D:\DULE\CustomerOrder\CustomerOrder\bin\Debug\CustomerOrder.exe.config
+D:\DULE\CustomerOrder\CustomerOrder\bin\Debug\CustomerOrder.exe
+D:\DULE\CustomerOrder\CustomerOrder\bin\Debug\CustomerOrder.pdb
+D:\DULE\CustomerOrder\CustomerOrder\obj\Debug\CustomerOrder.csprojResolveAssemblyReference.cache
+D:\DULE\CustomerOrder\CustomerOrder\obj\Debug\CustomerOrder.Properties.Resources.resources
+D:\DULE\CustomerOrder\CustomerOrder\obj\Debug\CustomerOrder.csproj.GenerateResource.Cache
+D:\DULE\CustomerOrder\CustomerOrder\obj\Debug\CustomerOrder.exe
+D:\DULE\CustomerOrder\CustomerOrder\obj\Debug\CustomerOrder.pdb
